@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "b16b5a9f-0ba2-4ac5-9b88-5ef42f9ef76e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 124,
+  "height": 120,
+  "platformSettings": {},
+  "subMetas": {
+    "Btsangongbijinhua_A": {
+      "ver": "1.0.4",
+      "uuid": "6322c518-fd56-42f9-bc5d-3e041e63b5c7",
+      "rawTextureUuid": "b16b5a9f-0ba2-4ac5-9b88-5ef42f9ef76e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1.5,
+      "offsetY": -0.5,
+      "trimX": 10,
+      "trimY": 11,
+      "width": 101,
+      "height": 99,
+      "rawWidth": 124,
+      "rawHeight": 120,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

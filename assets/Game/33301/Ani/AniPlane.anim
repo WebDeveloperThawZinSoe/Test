@@ -1,0 +1,181 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "AniPlane",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.0833333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": "1",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "6a3705fd-31db-4301-b4ab-66976aa8b92e"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "d6cca02f-381b-418a-9f5f-341d916373df"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "714ee705-ca37-4b91-b35b-74c03a04e36b"
+            }
+          },
+          {
+            "frame": 0.15,
+            "value": {
+              "__uuid__": "84648953-47db-4e06-acfd-02878e8639a3"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "721ec337-66e8-4a50-884b-b3bb7efe6ac4"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "42663315-9cb4-40fb-9576-cca17647ee89"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "7ff68220-715b-450b-8c67-961470aa0d22"
+            }
+          },
+          {
+            "frame": 0.35,
+            "value": {
+              "__uuid__": "26c2e9c5-6807-40bb-a13f-3c294cc65517"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "2e804e34-3986-4e9b-b202-17702d3ae8cf"
+            }
+          },
+          {
+            "frame": 0.45,
+            "value": {
+              "__uuid__": "949b75ad-ca2c-4179-b3e6-84072210c47f"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "dd1db518-bd4c-41b9-9662-9084ed441b24"
+            }
+          },
+          {
+            "frame": 0.55,
+            "value": {
+              "__uuid__": "dee295bd-fe30-457e-a434-3ef42b5f1fe0"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "a064842d-fa1b-4172-b1f8-5884779e8ac7"
+            }
+          },
+          {
+            "frame": 0.65,
+            "value": {
+              "__uuid__": "371db967-b0b6-4699-b896-61b3c510f5e4"
+            }
+          },
+          {
+            "frame": 0.7,
+            "value": {
+              "__uuid__": "996cd1fd-0afc-4105-88b0-a438e79cc705"
+            }
+          },
+          {
+            "frame": 0.75,
+            "value": {
+              "__uuid__": "85d26c7e-9a67-48d2-92db-0f22cced3388"
+            }
+          },
+          {
+            "frame": 0.8,
+            "value": {
+              "__uuid__": "cdc2e649-6afa-48ae-af4b-3820c90780d8"
+            }
+          },
+          {
+            "frame": 0.85,
+            "value": {
+              "__uuid__": "08f1c423-d9f8-4c14-bd82-ca67118ecb20"
+            }
+          },
+          {
+            "frame": 0.9,
+            "value": {
+              "__uuid__": "ec8c1d8f-4292-4887-a692-eda132048299"
+            }
+          },
+          {
+            "frame": 0.95,
+            "value": {
+              "__uuid__": "793351b7-8fe8-40ad-b11c-715cee2157f4"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "142e272d-ece9-429c-9b97-e0af53ca4017"
+            }
+          },
+          {
+            "frame": 1.05,
+            "value": {
+              "__uuid__": "dbd8988d-2c64-4f30-a6ae-5bc61af4aa9d"
+            }
+          },
+          {
+            "frame": 1.0666666666666667,
+            "value": {
+              "__uuid__": "d6cca02f-381b-418a-9f5f-341d916373df"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "position": [
+        {
+          "frame": 0.016666666666666666,
+          "value": [
+            491,
+            0
+          ]
+        },
+        {
+          "frame": 1.05,
+          "value": [
+            -412,
+            0
+          ]
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "frame": 1.0666666666666667,
+      "func": "AniFinish",
+      "params": []
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Ani3D2",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.7,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "d336f2ac-8b69-49e5-9344-88a535a0bfcd"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "b2d6f7d9-6a9b-4fd1-816f-ace0694ff200"
+            }
+          },
+          {
+            "frame": 0.15,
+            "value": {
+              "__uuid__": "b0bc32b4-420a-4a16-ad1b-500be1a2cb33"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "b1a447f9-5f18-4d91-8d14-964290899c4c"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "ebfab91f-3b08-4fe9-b6dc-a662499c07c9"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "70129e70-8cfa-4f80-813d-001f47e10e61"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "159c690e-bc80-47ca-9850-c24653ae9429"
+            }
+          },
+          {
+            "frame": 0.45,
+            "value": {
+              "__uuid__": "4e6d8d77-8d44-4cbb-8577-4b82a40df853"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "d392b5d2-dad1-41eb-83b0-5a28bf9d5202"
+            }
+          },
+          {
+            "frame": 0.55,
+            "value": {
+              "__uuid__": "27d1e6f2-0bae-4f09-8ff3-a85979904dec"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "6a3c7cd6-3f25-4cdd-ab1c-cff918c30199"
+            }
+          },
+          {
+            "frame": 0.65,
+            "value": {
+              "__uuid__": "0067cff7-427c-45fa-803e-486ac8ba77f3"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            0,
+            0
+          ]
+        },
+        {
+          "frame": 0.05,
+          "value": [
+            0,
+            235
+          ]
+        },
+        {
+          "frame": 0.35,
+          "value": [
+            0,
+            0
+          ]
+        },
+        {
+          "frame": 0.7,
+          "value": [
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "frame": 0.7,
+      "func": "AniFinish",
+      "params": []
+    }
+  ]
+}

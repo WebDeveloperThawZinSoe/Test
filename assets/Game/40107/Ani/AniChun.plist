@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>CT.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{453,1},{450,278}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{450,278}</string>
+			</dict>
+			<key>FCT.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{450,312}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{450,312}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>AniChun.png</string>
+			<key>realTextureFileName</key>
+			<string>AniChun.png</string>
+			<key>size</key>
+			<string>{904,314}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>904</integer>
+			<key>height</key>
+			<integer>314</integer>
+		</dict>
+	</dict>
+</plist>

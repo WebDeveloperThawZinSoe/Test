@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<paths>
+	 <external-path path="com.sy.mingju.app/" name="files_root"/>
+	 <external-path path="." name="external_storage_root"/>
+
+</paths>

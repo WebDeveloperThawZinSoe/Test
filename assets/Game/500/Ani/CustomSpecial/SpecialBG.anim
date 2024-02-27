@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "SpecialBG",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 4.2,
+  "sample": 5,
+  "speed": 5,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "beed634c-53e1-43e5-b27a-027667eda6c2"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "bc346bce-1ff5-4cc4-8603-df6f48bc12ba"
+            }
+          },
+          {
+            "frame": 2,
+            "value": {
+              "__uuid__": "68a6a187-b433-405a-b5f3-fa6d1cb56874"
+            }
+          },
+          {
+            "frame": 3,
+            "value": {
+              "__uuid__": "beed634c-53e1-43e5-b27a-027667eda6c2"
+            }
+          },
+          {
+            "frame": 4,
+            "value": {
+              "__uuid__": "bc346bce-1ff5-4cc4-8603-df6f48bc12ba"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

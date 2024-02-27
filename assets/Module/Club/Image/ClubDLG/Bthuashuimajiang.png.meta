@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "72777a6f-d5a0-4c4c-80d2-f06bb5ab7796",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 117,
+  "height": 103,
+  "platformSettings": {},
+  "subMetas": {
+    "Bthuashuimajiang": {
+      "ver": "1.0.4",
+      "uuid": "148cec02-7c0c-4959-bbed-0845cd1e83c2",
+      "rawTextureUuid": "72777a6f-d5a0-4c4c-80d2-f06bb5ab7796",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 117,
+      "height": 103,
+      "rawWidth": 117,
+      "rawHeight": 103,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

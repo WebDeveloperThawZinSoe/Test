@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "a49ed145-a3d9-4bf8-9676-cddff59b00c2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 68,
+  "height": 78,
+  "platformSettings": {},
+  "subMetas": {
+    "BtDissClub": {
+      "ver": "1.0.4",
+      "uuid": "b84dd724-2352-4812-bc0d-252fd8dd688d",
+      "rawTextureUuid": "a49ed145-a3d9-4bf8-9676-cddff59b00c2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 68,
+      "height": 78,
+      "rawWidth": 68,
+      "rawHeight": 78,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

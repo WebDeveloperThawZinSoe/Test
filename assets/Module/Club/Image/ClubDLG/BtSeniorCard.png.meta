@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "51ae4000-3410-4b37-bd85-98291a2191a4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 102,
+  "height": 79,
+  "platformSettings": {},
+  "subMetas": {
+    "BtSeniorCard": {
+      "ver": "1.0.4",
+      "uuid": "dd0ff075-1901-4ca5-8326-23f392d63f7f",
+      "rawTextureUuid": "51ae4000-3410-4b37-bd85-98291a2191a4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 102,
+      "height": 79,
+      "rawWidth": 102,
+      "rawHeight": 79,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

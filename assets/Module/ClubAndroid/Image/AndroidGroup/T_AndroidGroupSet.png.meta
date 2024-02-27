@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "f00414f5-117f-4270-9739-524291a6e860",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 139,
+  "height": 38,
+  "platformSettings": {},
+  "subMetas": {
+    "T_AndroidGroupSet": {
+      "ver": "1.0.4",
+      "uuid": "a850a34b-5585-44a0-813c-72abe2d995c1",
+      "rawTextureUuid": "f00414f5-117f-4270-9739-524291a6e860",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 139,
+      "height": 38,
+      "rawWidth": 139,
+      "rawHeight": 38,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

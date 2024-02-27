@@ -1,0 +1,32 @@
+{
+  "__type__": "cc.Material",
+  "_name": "cuopai",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "cb88b290-4db3-4a49-be14-b4ea294b7ac7"
+  },
+  "_techniqueIndex": 0,
+  "_techniqueData": {
+    "0": {
+      "props": {
+        "textureBack": {
+          "__uuid__": "acae344b-9d13-4272-a814-c147bffe65d6"
+        },
+        "textureFront": {
+          "__uuid__": "70b26dd6-e37a-4988-9b6f-47ce34ac197a"
+        }
+      }
+    },
+    "1": {
+      "props": {
+        "textureBack": {
+          "__uuid__": "acae344b-9d13-4272-a814-c147bffe65d6"
+        },
+        "textureFront": {
+          "__uuid__": "00f0c78d-e6b6-4c1c-80d5-3087ca483099"
+        }
+      }
+    }
+  }
+}

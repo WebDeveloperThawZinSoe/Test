@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "23d7388a-2645-42a7-8826-d0115cf6f61a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 226,
+  "height": 83,
+  "platformSettings": {},
+  "subMetas": {
+    "Bttongbiniuniu": {
+      "ver": "1.0.4",
+      "uuid": "876190e0-18d5-445f-9106-e91a6c7f4999",
+      "rawTextureUuid": "23d7388a-2645-42a7-8826-d0115cf6f61a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": -0.5,
+      "trimX": 34,
+      "trimY": 20,
+      "width": 157,
+      "height": 44,
+      "rawWidth": 226,
+      "rawHeight": 83,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

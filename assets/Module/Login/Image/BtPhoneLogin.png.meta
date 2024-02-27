@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "495eb52e-88cb-4f5d-97f7-8b3e93715d58",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 484,
+  "height": 89,
+  "platformSettings": {},
+  "subMetas": {
+    "BtPhoneLogin": {
+      "ver": "1.0.4",
+      "uuid": "65e27b28-6204-4fb1-9fac-c8a7d10342ff",
+      "rawTextureUuid": "495eb52e-88cb-4f5d-97f7-8b3e93715d58",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 484,
+      "height": 89,
+      "rawWidth": 484,
+      "rawHeight": 89,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

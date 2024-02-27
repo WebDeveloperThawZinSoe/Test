@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "73e790fa-b95f-42c6-b876-da5b2952870c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 2042,
+  "height": 750,
+  "platformSettings": {},
+  "subMetas": {
+    "AniPlane": {
+      "ver": "1.0.4",
+      "uuid": "98205196-0d3b-4c8d-bf3a-00769ddcfa2d",
+      "rawTextureUuid": "73e790fa-b95f-42c6-b876-da5b2952870c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -7,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 2026,
+      "height": 748,
+      "rawWidth": 2042,
+      "rawHeight": 750,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "083a5a89-9f3f-4b23-bb29-f06f0dfcd1e3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 52,
+  "height": 47,
+  "platformSettings": {},
+  "subMetas": {
+    "shop_Btfanhuilobby": {
+      "ver": "1.0.4",
+      "uuid": "d6b7a616-0892-4c10-8a71-e5c823a0fee7",
+      "rawTextureUuid": "083a5a89-9f3f-4b23-bb29-f06f0dfcd1e3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 52,
+      "height": 47,
+      "rawWidth": 52,
+      "rawHeight": 47,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

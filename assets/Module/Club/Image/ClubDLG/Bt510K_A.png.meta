@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "de19eb72-ef58-4b91-93d3-c4c8648f67ce",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 124,
+  "height": 120,
+  "platformSettings": {},
+  "subMetas": {
+    "Bt510K_A": {
+      "ver": "1.0.4",
+      "uuid": "597db8fd-ff3b-419d-8568-e2bc4f042a64",
+      "rawTextureUuid": "de19eb72-ef58-4b91-93d3-c4c8648f67ce",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2,
+      "offsetY": 0.5,
+      "trimX": 11,
+      "trimY": 10,
+      "width": 98,
+      "height": 99,
+      "rawWidth": 124,
+      "rawHeight": 120,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

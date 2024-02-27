@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "c50c83d4-3e99-4532-8b9d-d899ff67fa9d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 105,
+  "height": 78,
+  "platformSettings": {},
+  "subMetas": {
+    "BtPromoteCard": {
+      "ver": "1.0.4",
+      "uuid": "84051ca3-2601-4c98-b60c-5d30a69d7e2a",
+      "rawTextureUuid": "c50c83d4-3e99-4532-8b9d-d899ff67fa9d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 105,
+      "height": 78,
+      "rawWidth": 105,
+      "rawHeight": 78,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

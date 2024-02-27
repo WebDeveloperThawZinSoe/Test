@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "b389db1e-a793-490b-b65a-c674af48282b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1023,
+  "height": 386,
+  "platformSettings": {},
+  "subMetas": {
+    "Ani3D2": {
+      "ver": "1.0.4",
+      "uuid": "31bb7c49-cba6-40d4-8c2d-5f5dfbe6c37e",
+      "rawTextureUuid": "b389db1e-a793-490b-b65a-c674af48282b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 1020,
+      "height": 384,
+      "rawWidth": 1023,
+      "rawHeight": 386,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

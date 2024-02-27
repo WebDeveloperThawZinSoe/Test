@@ -1,0 +1,139 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "AniBomb",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5166666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            0,
+            320
+          ]
+        },
+        {
+          "frame": 0.03333333333333333,
+          "value": [
+            0,
+            5
+          ]
+        }
+      ]
+    },
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "ee00b0ff-4ded-4d1c-86fc-55d5f28a3afd"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "55f7efea-ce6e-43cd-b343-c5115143ce9f"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "0da93278-d5ad-41d2-ac68-ab4d0683d8c0"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "649ca4d8-49e2-4bbd-8698-6196b5b1bde3"
+            }
+          },
+          {
+            "frame": 0.13333333333333333,
+            "value": {
+              "__uuid__": "3bcab011-14e1-496e-af64-f0e7db350fe8"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "a2cde3bc-8783-4710-bfe0-734e4f856f16"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "d58550c5-c1ca-4f8d-92c1-1a12514478c1"
+            }
+          },
+          {
+            "frame": 0.23333333333333334,
+            "value": {
+              "__uuid__": "2ef663ab-438a-4fc1-82ac-b057c7dec931"
+            }
+          },
+          {
+            "frame": 0.26666666666666666,
+            "value": {
+              "__uuid__": "9fd4b46f-62e4-4e5b-91d1-36e6b3921eaf"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "9027d9d0-babc-4b60-851f-ebbf7163ef87"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "d016154c-b04c-4145-9ef5-c417963ea9b3"
+            }
+          },
+          {
+            "frame": 0.36666666666666664,
+            "value": {
+              "__uuid__": "b880382e-b47b-40f8-8aac-dc646c2e47dd"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "2bac4be1-0207-4871-83d3-038a8fcd1965"
+            }
+          },
+          {
+            "frame": 0.43333333333333335,
+            "value": {
+              "__uuid__": "0640f8c3-cd6e-4c16-9d05-3a8fd48b70da"
+            }
+          },
+          {
+            "frame": 0.4666666666666667,
+            "value": {
+              "__uuid__": "ddb22f17-3a58-40c6-a3d0-c7b9180afc6a"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "6fe1cd59-7a58-4c85-a9ba-febd32f58c7c"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0.5,
+      "func": "AniFinish",
+      "params": []
+    }
+  ]
+}

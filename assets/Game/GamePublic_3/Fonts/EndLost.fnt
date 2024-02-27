@@ -1,0 +1,22 @@
+info face="EndLost" size=32 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1
+common lineHeight=33 base=26 scaleW=133 scaleH=127 pages=1 
+page id=0 file="EndLost.png"
+chars count=16
+char id=46 x=30 y=45 width=14 height=16 xoffset=0 yoffset=17 xadvance=16 page=0 chnl=0 letter="."
+char id=19975 x=0 y=0 width=48 height=44 xoffset=0 yoffset=-8 xadvance=50 page=0 chnl=0 letter="万"
+char id=43 x=106 y=0 width=26 height=27 xoffset=0 yoffset=5 xadvance=28 page=0 chnl=0 letter="+"
+char id=45 x=58 y=113 width=26 height=13 xoffset=0 yoffset=12 xadvance=28 page=0 chnl=0 letter="-"
+char id=48 x=49 y=38 width=28 height=37 xoffset=0 yoffset=-4 xadvance=30 page=0 chnl=0 letter="0"
+char id=49 x=106 y=28 width=23 height=36 xoffset=0 yoffset=-4 xadvance=25 page=0 chnl=0 letter="1"
+char id=50 x=0 y=45 width=29 height=36 xoffset=0 yoffset=-4 xadvance=31 page=0 chnl=0 letter="2"
+char id=51 x=29 y=82 width=28 height=37 xoffset=0 yoffset=-4 xadvance=30 page=0 chnl=0 letter="3"
+char id=52 x=58 y=76 width=28 height=36 xoffset=0 yoffset=-4 xadvance=30 page=0 chnl=0 letter="4"
+char id=53 x=49 y=0 width=28 height=37 xoffset=0 yoffset=-4 xadvance=30 page=0 chnl=0 letter="5"
+char id=54 x=78 y=38 width=27 height=37 xoffset=0 yoffset=-4 xadvance=29 page=0 chnl=0 letter="6"
+char id=55 x=87 y=76 width=27 height=37 xoffset=0 yoffset=-4 xadvance=29 page=0 chnl=0 letter="7"
+char id=56 x=0 y=82 width=28 height=37 xoffset=0 yoffset=-4 xadvance=30 page=0 chnl=0 letter="8"
+char id=57 x=78 y=0 width=27 height=37 xoffset=0 yoffset=-4 xadvance=29 page=0 chnl=0 letter="9"
+char id=32 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=1 page=0 chnl=0 letter=" "
+char id=9 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=1 page=0 chnl=0 letter="	"
+
+kernings count=0
